@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\bin\Debug\MethodsEg.exe.config
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\bin\Debug\MethodsEg.exe
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\bin\Debug\MethodsEg.pdb
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.csprojAssemblyReference.cache
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.exe
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.pdb

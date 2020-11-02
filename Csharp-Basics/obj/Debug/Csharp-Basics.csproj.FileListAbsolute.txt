@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.exe.config
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.exe
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.pdb
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.csprojAssemblyReference.cache
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.exe
+E:\New folder\Online Training\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.pdb
