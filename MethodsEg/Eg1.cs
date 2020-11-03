@@ -51,6 +51,7 @@ namespace MethodsEg
             Console.WriteLine("Name:{0}", name);
             Console.WriteLine("Age:{0}", eg1.GetAge());
             Console.WriteLine("Initial:{0}", eg1.GetInitial());
+            Console.WriteLine("Changes made");
             Console.Read();
 
 
