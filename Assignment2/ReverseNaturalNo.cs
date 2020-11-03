@@ -11,7 +11,7 @@ namespace Assignment2
         static void Main()
         {
             int i, n;
-            Console.WriteLine("Enter the no");
+            Console.WriteLine("Enter the natrual no");
             n = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Natural number in reverse Order");
             for (i=n; i>=1; i--)
